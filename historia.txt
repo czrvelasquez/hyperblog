@@ -1,1 +1,3 @@
 Este es un archivo de texto plano 
+
+pero asi se maneja este chow
